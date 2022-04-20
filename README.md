@@ -8,10 +8,11 @@ showing how to use Git and Github together.
 This is an example to show different parts
 of the Git repository and various commands  
 using a web project
+Introduction section, adding a ine for conflict.
 
 ## Purpose
 
-To understand git and Github. 
+To understand git and Github. Adding conflict.
 
 ## Deployment
 
@@ -20,4 +21,4 @@ Please share as much as possible, further links will be shared for this section
 Please fork this repository and use it.
 ### Copyright
 
-Git. 2022.
+Git. 2022. Conflict line.
