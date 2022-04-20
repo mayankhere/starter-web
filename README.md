@@ -16,7 +16,7 @@ To understand git and Github.
 ## Deployment
 
 ## How to Contribute
-
+Please share as much as possible, further links will be shared for this section
 ### Copyright
 
 Git. 2022.
