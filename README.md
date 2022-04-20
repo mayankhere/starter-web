@@ -11,6 +11,8 @@ using a web project
 
 ## Purpose
 
+To understand git and Github.
+
 ## Deployment
 
 ## How to Contribute
