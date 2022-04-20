@@ -2,6 +2,7 @@
 
 This is a simple website project for
 showing how to use Git and Github together.
+This is my first git project.
 
 ## Introduction
 
@@ -14,6 +15,7 @@ using a web project
 To understand git and Github. 
 
 ## Deployment
+Still waiting to edit this section, once the deployment comes into picture.
 
 ## How to Contribute
 Please share as much as possible, further links will be shared for this section
