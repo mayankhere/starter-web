@@ -6,6 +6,8 @@ kdfjnkjfnm
 sjdfnksdnjf
 CHANGE #1 through master
 skdjnkdsgf
+CHANGE#3 master
+CHANGE#3 master
 adkjnksdg
 line1 added in deature branch
 
@@ -15,3 +17,7 @@ CHANGE #1 through master
 ksdjnkdfjgn
 dskjfgnkdfjgn
 CHANGE #1 through master
+CHANGE#3 master
+CHANGE#3 master
+CHANGE#3 master
+CHANGE#3 master
