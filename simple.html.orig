@@ -2,8 +2,11 @@
 <!DOCTYPE html>
 <!--
 	Copyright git training
+<<<<<<< HEAD
 	Adding rebase conflicts
+=======
 	These changes are from the feature branch
+>>>>>>> 2b733a7 (making changes in the feture branch)
 -->
 <head>
 	<title>Another change in the festure branch</title>
