@@ -15,5 +15,10 @@ adding name 10 change #1
 
     HTML5, CSS3
     jQuery, Modernizr
+<<<<<<< HEAD
     1111111
     2222222
+=======
+    aaaaa
+    bbbbb
+>>>>>>> ba17c93 (added changes humans festurebranch)
