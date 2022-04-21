@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 line addde in master branch
 sjdfnksdjnf
 kdfjnkjfnm
 sjdfnksdnjf
 skdjnkdsgf
 adkjnksdg
+=======
+line1 added in deature branch
+>>>>>>> myfeature
