@@ -4,6 +4,7 @@ sjdfnksdjnf
 CHANGE #1 through master
 kdfjnkjfnm
 sjdfnksdnjf
+CHANGE#2FEATURE
 CHANGE #1 through master
 skdjnkdsgf
 CHANGE#3 master
@@ -14,10 +15,18 @@ line1 added in deature branch
 jkdnfksjnjkd
 sdkjnksdjgnkdj
 CHANGE #1 through master
+CHANGE#2FEATURE
+CHANGE#2FEATURE
 ksdjnkdfjgn
 dskjfgnkdfjgn
 CHANGE #1 through master
+<<<<<<< HEAD
 CHANGE#3 master
 CHANGE#3 master
 CHANGE#3 master
 CHANGE#3 master
+=======
+
+CHANGE#2 FEATURE
+CHANGE#2FEATURE
+>>>>>>> 3d5d54f (change #2 in the feature branch)
